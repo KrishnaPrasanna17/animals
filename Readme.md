@@ -230,6 +230,11 @@ This will interpolate the format string with the value of methods `name.lastName
   * directoryPath
   * filePath
   * semver
+* newspaper
+  * names
+  * foundedAt
+  * officeLocs
+  * ceo
 
 
 ## Localization
